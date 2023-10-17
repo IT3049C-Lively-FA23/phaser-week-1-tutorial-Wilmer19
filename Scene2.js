@@ -16,4 +16,8 @@ class Scene2 extends Phaser.Scene {
             fill:"yellow"
         });
     }
+
+    moveShip(ship, speed){
+        ship.y += speed;
+    }
 }

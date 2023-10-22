@@ -26,6 +26,8 @@ class Scene2 extends Phaser.Scene {
 
         this.input.on('gameobjectdown', this.destroyShip, this);
 
+        this.physics.world.setBoundsCollision();
+
         this.powerUps = this.physics.add.group();
 
         var maxObjects = 4;

@@ -15,9 +15,9 @@ Instructions to this assignment can be found [here](https://uc.instructure.com/c
 
 how many points out of 20 do you deserve on this assignment:
 I deserve an 18/20 on this assignment. I followed along with the lecture videos and made sure my 
-game had no errors. The only issue I have is that my "player" isn't able to destory the ships. I used the 
-debugger, rewatched the lecture videos and checked the creator's code. I couldn't figure out the issue 
-because everything matched.
+game had no errors. The issues I have is that my "player" isn't able to destory the ships. Due to this, 
+my score isn't able to update. I used the debugger, rewatched the lecture videos and checked the 
+creator's code. I couldn't figure out the issue because everything matched.
 
 ## Self-Reflection:
 I'm very proud of myself because I was able to create a game. It was really exciting to learn
